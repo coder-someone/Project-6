@@ -3,11 +3,11 @@ let phrase = document.querySelector('#phrase');
 let ul = phrase.querySelector('ul');
 const strt_div = document.querySelector(".start");
 let phrases = [
-    'Shot In the Dark',
-    'On the Same Page',
+    'Shot In The Dark',
+    'On The Same Page',
     'Break The Ice',
-    'My Cup of Tea',
-    'Man of Few Words'
+    'My Cup Of Tea',
+    'Man Of Few Words'
 ];
 
 let missed = 0;
