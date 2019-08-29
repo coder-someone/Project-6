@@ -185,7 +185,7 @@ button {
 }
 
 .win {
-  background: var(--color-win) url("../images/win2.png") no-repeat center/cover;;
+  background: var(--color-win) url("../images/win2m.png") no-repeat center/cover;;
 }
 
 .win a {
