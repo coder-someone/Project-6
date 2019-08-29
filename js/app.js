@@ -93,7 +93,8 @@ function setting_phrase(){
 
 
 
-//Setting the start button and reset button
+
+//Setting the start and reset button 
 strt_div.addEventListener('click', (ev)=> {
     if(ev.target.tagName === 'A'){
         if(ev.target.textContent === 'Start Game'){
